@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;i2c_oled_gyro/lib/MPU6050/Src&apos; to &apos;src&apos;" description="Rename resource &apos;Src&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="lib/MPU6050/Src" name="src" stamp="1732797655571" updateReferences="true"/>
+</session>

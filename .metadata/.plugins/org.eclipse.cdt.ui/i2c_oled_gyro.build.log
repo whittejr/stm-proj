@@ -1,0 +1,10 @@
+11:55:28 **** Incremental Build of configuration Debug for project i2c_oled_gyro ****
+make -j20 all 
+arm-none-eabi-size  i2c_oled_gyro.elf 
+   text	   data	    bss	    dec	    hex	filename
+  36736	    648	   3112	  40496	   9e30	i2c_oled_gyro.elf
+Finished building: default.size.stdout
+ 
+
+11:55:28 Build Finished. 0 errors, 0 warnings. (took 130ms)
+
